@@ -58,8 +58,8 @@ header{
   margin-bottom: 90px;
 }
 .portfolio .box{
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 /* Section portfolio*/
 
@@ -67,6 +67,7 @@ header{
 .about{
   background-color: #1abc9c;
   height: 490px;
+  margin-bottom: 70px;
 }
 .sc-container-two{
   width: 70%;
@@ -76,7 +77,25 @@ header{
 /* section about */
 
 /* form */
-
+.contact-form{
+  margin-bottom: 50px;
+}
 
 /* form */
+
 /* main */
+
+/* footer */
+
+/* footer-top */
+.footer-top{
+  background-color: #3a546d;
+}
+/* footer-top */
+
+/* footer-bottom */
+.footer-bottom{
+  background-color: #2c3e50;
+}
+/* footer-bottom */
+/* footer */
